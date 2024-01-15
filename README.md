@@ -1,6 +1,6 @@
 # **Calculator with Graphical Interface in Python**
 
-![Visual representation of the calculator made.](./Imagens/calculadoratk.PNG)
+![Visual representation of the calculator made.](./Images/calculatortk.PNG)
 
 Welcome to the Python GUI Calculator repository! This project is a simple implementation of a calculator developed in Python, with a friendly graphical interface.
 
