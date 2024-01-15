@@ -1,4 +1,4 @@
-<font size="50">**Calculator with Graphical Interface in Python**</font>
+<font size=15>**Calculator with Graphical Interface in Python**</font>
 
 ![Visual representation of the calculator made.](./Imagens/calculadoratk.PNG)
 
@@ -12,6 +12,7 @@ How to use
 Clone the Repository:
 
 ```git clone https://github.com/HenriqueDavid-M/tk-Calculator-graphic-interface```
+
 ```cd tk-Calculator-graphic-interface```
 
 Run the Application:
